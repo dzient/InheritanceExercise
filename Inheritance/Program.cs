@@ -5,7 +5,7 @@ using System.Collections.Generic;
 //Inheritance
 //
 // Name: David Zientara
-// Date: 7-14-2022
+// Date: 7-15-2022
 // Comments: An exercise in inheritance
 // Added methods per the instructions
 //-----------------------------------------------------------------
